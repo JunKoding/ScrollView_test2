@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Green-->
+        <!--green-->
         <scene sceneID="2yK-RN-s84">
             <objects>
                 <viewController id="WuG-Ya-ASu" sceneMemberID="viewController">
@@ -18,7 +18,8 @@
                         <viewLayoutGuide key="safeArea" id="HI2-Yl-SYU"/>
                         <color key="backgroundColor" systemColor="systemGreenColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Green" id="9kL-I5-K7T"/>
+                    <tabBarItem key="tabBarItem" title="green" id="cTM-rV-u0f"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rfY-1P-2kD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
