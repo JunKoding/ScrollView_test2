@@ -54,6 +54,7 @@
                         <segue destination="vhc-ZA-hde" kind="relationship" relationship="viewControllers" id="yiy-Uz-Pu3"/>
                         <segue destination="WuG-Ya-ASu" kind="relationship" relationship="viewControllers" id="fxg-y7-IcI"/>
                         <segue destination="chH-58-2r8" kind="relationship" relationship="viewControllers" id="vfR-Q7-mBs"/>
+                        <segue destination="4NB-gd-nup" kind="relationship" relationship="viewControllers" id="rf4-7x-1yf"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="blV-oh-L3D" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -135,6 +136,22 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OEi-ZZ-par" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1929" y="-326"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="nxJ-Ld-kEg">
+            <objects>
+                <viewController id="4NB-gd-nup" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="u6w-7B-fTu">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="NEa-jh-22m"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="kfv-xW-ewh"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4Ln-vv-GWh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-849" y="-683"/>
         </scene>
     </scenes>
     <resources>
